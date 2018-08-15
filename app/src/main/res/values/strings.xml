@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VerificationTask1</string>
+    <string name="hint_for_edit_text">Введите текст</string>
+    <string name="press_me_button">Press me</string>
+</resources>
