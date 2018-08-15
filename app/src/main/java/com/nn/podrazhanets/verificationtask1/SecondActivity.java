@@ -2,7 +2,6 @@ package com.nn.podrazhanets.verificationtask1;
 
 import android.app.SearchManager;
 import android.content.Intent;
-import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
